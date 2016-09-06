@@ -24,8 +24,8 @@ redcarpet:
     - with_toc_data
     
 
-title : Jekyll Jacman
-tagline: A fresh looking and responsive theme for Jekyll
+title : Psychology
+# tagline: A fresh looking and responsive theme for Jekyll
 
 defaults:
   -
@@ -105,8 +105,8 @@ toc:
 
 #### Links
 links:
-  码农圈: https://coderq.com
-  Jark's Blog: http://wuchong.me
+  微表情吧: http://tieba.baidu.com/f?kw=%D0%C4%C0%ED%D1%A7&fr=ala0&tpl=5
+#  Jark's Blog: http://wuchong.me
 
 
 
