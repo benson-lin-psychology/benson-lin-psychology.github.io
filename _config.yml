@@ -24,7 +24,7 @@ redcarpet:
     - with_toc_data
     
 
-title : Psychology
+title : psychology
 # tagline: A fresh looking and responsive theme for Jekyll
 
 defaults:
