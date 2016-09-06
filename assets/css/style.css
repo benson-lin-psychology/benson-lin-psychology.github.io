@@ -769,6 +769,7 @@ header nav {
 	border-bottom:1px solid #dbdbdb
 }
 }article header.article-info >h1 {
+
 	padding:.2em 3%;
 	font-size:170%;
 	line-height:1.5;
@@ -780,6 +781,7 @@ header nav {
 }
 @media only screen and (min-width:1024px) {
 	article header.article-info >h1 {
+	display: inline-block;
 	font-size:200%;
 	padding-top:.3em
 }
@@ -803,7 +805,7 @@ header nav {
 	article header.article-info >p.article-time {
 	float:right;
 	margin-right:1em;
-	padding-top:.1em;
+	padding-top:.1.7em;
 	font-size:.9em
 }
 }article header.article-info >p.article-time:before {
@@ -814,7 +816,7 @@ header nav {
 	-moz-osx-font-smoothing:grayscale
 }
 article .article-content {
-	padding:0 4% 1.5em;
+	padding:1.5em 4% ;
 	color:#413f3f;
 	font-size:100%;
 }
