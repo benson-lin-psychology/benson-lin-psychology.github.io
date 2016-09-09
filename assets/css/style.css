@@ -1413,6 +1413,7 @@ footer.article-footer {
 	display:none;
 	width:13%;
 	position:fixed;
+	min-width:768px;
 	right:2%;
 	top:320px;
 	overflow:hidden;
