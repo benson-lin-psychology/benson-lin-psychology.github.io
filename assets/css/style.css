@@ -1375,7 +1375,6 @@ footer.article-footer {
 }
 .toc-article {
 	background:#eee;
-	margin:1.6em 0 0 2em;
 	padding:1em;
 	-webkit-border-radius:4px;
 	-webkit-border-radius:4px;
@@ -1397,8 +1396,13 @@ footer.article-footer {
 #toc {
 	line-height:1.3em;
 	font-size:.8em;
-	float:right;
 }
+@media only screen and (min-width:768px) {
+	#toc {
+	float:right;
+	}
+}
+
 #toc .toc {
 	padding:0;
 }
